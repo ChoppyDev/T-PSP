@@ -1,8 +1,8 @@
-#Qu'est-ce que Easy Diet ?
+# Qu'est-ce que Easy Diet ?
 
 Easy Diet est un projet d’application mobile dans le domaine de l’e-Santé et le bien être. Elle propose aux utilisateurs qui suivent une diète, un renforcement motivationel, et un suivi personnalisé. Si un utilisateur est sur le point de craquer et de ne plus suivre sa diète, il peut se rendre sur l’application, et secouer son téléphone, une recette équilibrée s’affichera avec les préférences qu’il a défini (préférences pour le sucré, le salé, viandes, poissons, etc), chaque recette comporte aussi une liste de courses que l’on peut exporter et envoyer à ses proches, ainsi qu’un tableau des valeurs nutritionnelles. Il est aussi possible d’enregistrer ses craquages, et ainsi l’application trouvera la recette la plus adaptée pour compléter les calories et macro-nutriments de la journée. Le but de l'application est de manger le plus équilibré possible ! Un onglet (near good meals) permet de trouver des restaurants à proximité, qui font des plats healthy, et qui renseignent les valeurs nutritionnelles de leur plats.
 
- #What's Easy Diet?
+ # What's Easy Diet?
 
 Easy Diet is a mobile application project in the field of e-Health and well-being. It offers users who follow a diet, motivational reinforcement, and a personalized follow-up. If a user is about to crack and no longer follow his diet, he can go to the application, and shake his phone, a balanced recipe will be displayed with the preferences he has defined (preferences for sweet, salty, meat, fish, etc.), each recipe also includes a shopping list that can be exported and sent to his loved ones, as well as a table of nutritional values. It is also possible to record your cracks, so the application will find the most suitable recipe to supplement the calories and macro-nutrients of the day. The aim of the application is to eat as balanced as possible! A tab (near good meals) allows you to find restaurants nearby that make healthy dishes, and which provide information about the nutritional values of their dishes.
 
